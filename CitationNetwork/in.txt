@@ -1,0 +1,81 @@
+16
+Collective dynamics of 'small-world' networks
+Emergence of scaling in random networks
+Identifying sets of key players in a network
+Identity and search in social networks
+Models of core/periphery structures
+Navigation in a small world
+The structure of scientific collaboration networks
+Scientific collaboration networks. II
+Statistical mechanics of complex networks
+Statistical Models for Social Networks
+The structure and function of complex networks
+On Random Graphs
+Power and Centrality A family of measures
+Social Network Thresholds in the Diffusion of Innovations
+On properties of a well-known graph, or, What is your Ramsey
+Networks, influence, and public opinion formation
+8536
+8532
+-1000
+336
+229
+470
+1178
+323
+6458
+12
+4768
+1944
+0
+0
+0
+205
+27
+22
+14
+18
+41
+10
+30
+17
+212
+114
+423
+8
+0
+0
+0
+106
+6175.122221
+5515.364987
+-10000
+245.6051563
+44.97598319
+377.3921976
+1059.374938
+429.0248595
+3768.650397
+0.123580341
+2056.991925
+812.4420163
+-10
+-10
+-10
+28.1786574
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	1	0	0	0	1	1	0	1	0	0	1	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
